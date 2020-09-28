@@ -5,4 +5,5 @@ def reverse_each_word(string)
     new << word
     new << " "
   end
+  new
 end
